@@ -1,0 +1,70 @@
+ConnectionClass,_Image@id,Ingredient@Name,connection_id,constraint_connection_id
+HasIngredient,1,red kidney beans,1_red kidney beans,1_red kidney beans
+HasIngredient,1,rice,1_rice,1_rice
+HasIngredient,2,cottage cheese,2_cottage cheese,2_cottage cheese
+HasIngredient,2,tomato,2_tomato,2_tomato
+HasIngredient,3,moong daal,3_moong daal,3_moong daal
+HasIngredient,3,green chilly,3_green chilly,3_green chilly
+HasIngredient,4,chicken,4_chicken,4_chicken
+HasIngredient,4,butter,4_butter,4_butter
+HasIngredient,4,cream,4_cream,4_cream
+HasIngredient,5,granola,5_granola,5_granola
+HasIngredient,5,banana chips,5_banana chips,5_banana chips
+HasIngredient,5,pumpkin seeds,5_pumpkin seeds,5_pumpkin seeds
+HasIngredient,6,potato,6_potato,6_potato
+HasIngredient,7,offal,7_offal,7_offal
+HasIngredient,7,beef,7_beef,7_beef
+HasIngredient,8,chicken,8_chicken,8_chicken
+HasIngredient,8,butter,8_butter,8_butter
+HasIngredient,8,wheat,8_wheat,8_wheat
+HasIngredient,8,rice,8_rice,8_rice
+HasIngredient,9,duck,9_duck,9_duck
+HasIngredient,9,lamb,9_lamb,9_lamb
+HasIngredient,10,bacon,10_bacon,10_bacon
+HasIngredient,10,egg,10_egg,10_egg
+HasIngredient,10,granola,10_granola,10_granola
+HasIngredient,11,chicken,11_chicken,11_chicken
+HasIngredient,11,noodles,11_noodles,11_noodles
+HasIngredient,12,egg,12_egg,12_egg
+HasIngredient,12,bread,12_bread,12_bread
+HasIngredient,13,eggplant,13_eggplant,13_eggplant
+HasIngredient,13,noodles,13_noodles,13_noodles
+HasIngredient,14,eggplant,14_eggplant,14_eggplant
+HasIngredient,14,noodles,14_noodles,14_noodles
+HasIngredient,14,feta cheese,14_feta cheese,14_feta cheese
+HasIngredient,15,green onion,15_green onion,15_green onion
+HasIngredient,15,bean sprouts,15_bean sprouts,15_bean sprouts
+HasIngredient,15,pork,15_pork,15_pork
+HasIngredient,15,noodles,15_noodles,15_noodles
+HasIngredient,16,salmon,16_salmon,16_salmon
+HasIngredient,17,lobster,17_lobster,17_lobster
+HasIngredient,17,butter,17_butter,17_butter
+HasIngredient,18,salmon,18_salmon,18_salmon
+HasIngredient,18,tuna,18_tuna,18_tuna
+HasIngredient,18,rice,18_rice,18_rice
+HasIngredient,18,seaweed,18_seaweed,18_seaweed
+HasIngredient,19,all-purpose flour,19_all-purpose flour,19_all-purpose flour
+HasIngredient,19,egg,19_egg,19_egg
+HasIngredient,19,milk,19_milk,19_milk
+HasIngredient,20,lettuce,20_lettuce,20_lettuce
+HasIngredient,20,quinoa,20_quinoa,20_quinoa
+HasIngredient,21,cocoa,21_cocoa,21_cocoa
+HasIngredient,21,vodka,21_vodka,21_vodka
+HasIngredient,22,tequila,22_tequila,22_tequila
+HasIngredient,22,triple sec,22_triple sec,22_triple sec
+HasIngredient,23,all-purpose flour,23_all-purpose flour,23_all-purpose flour
+HasIngredient,23,butter,23_butter,23_butter
+HasIngredient,23,chocolate,23_chocolate,23_chocolate
+HasIngredient,24,squid,24_squid,24_squid
+HasIngredient,24,pasta,24_pasta,24_pasta
+HasIngredient,25,egg,25_egg,25_egg
+HasIngredient,25,potato,25_potato,25_potato
+HasIngredient,26,egg,26_egg,26_egg
+HasIngredient,26,tortilla,26_tortilla,26_tortilla
+HasIngredient,27,basil,27_basil,27_basil
+HasIngredient,28,sugar,28_sugar,28_sugar
+HasIngredient,28,milk,28_milk,28_milk
+HasIngredient,29,milk,29_milk,29_milk
+HasIngredient,29,cocoa,29_cocoa,29_cocoa
+HasIngredient,30,all-purpose flour,30_all-purpose flour,30_all-purpose flour
+HasIngredient,30,sugar,30_sugar,30_sugar

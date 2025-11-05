@@ -1,0 +1,66 @@
+EntityClass,Name,other_names,category,subgroup,macronutrient,micronutrient,constraint_Name
+Ingredient,all-purpose flour,maida,vegetarian,refined grains,carbohydrates,,all-purpose flour
+Ingredient,apple,,vegetarian,fruit,carbohydrates,,apple
+Ingredient,apple juice,,vegetarian,fruit,carbohydrates,,apple juice
+Ingredient,asparagus,,vegetarian,vegetable,,folic acid,asparagus
+Ingredient,avocado ,,vegetarian,fruit,fat,,avocado 
+Ingredient,bacon,,nonvegetarian,processed meat,protein,,bacon
+Ingredient,banana,,vegetarian,fruit,carbohydrates,,banana
+Ingredient,basil,,vegetarian,herb,,vitamin k,basil
+Ingredient,black beans,,vegetarian,legume,protein,,black beans
+Ingredient,bok choy,,vegetarian,vegetable,,,bok choy
+Ingredient,bread,,vegetarian,refined grains,carbohydrates,,bread
+Ingredient,butter,,vegetarian,dairy,fat,omega-3,butter
+Ingredient,cashews,,vegetarian,nuts,protein,,cashews
+Ingredient,cherry tomatoes,,vegetarian,fruit,carbohydrates,,cherry tomatoes
+Ingredient,chicken,,nonvegetarian,poultry,protein,,chicken
+Ingredient,chicken stock,,nonvegetarian,poultry,protein,,chicken stock
+Ingredient,cotija cheese,,vegetarian,dairy,protein,,cotija cheese
+Ingredient,cottage cheese,paneer,vegetarian,dairy,protein,,cottage cheese
+Ingredient,Cumin seeds,jeera,,,,,Cumin seeds
+Ingredient,egg,,ovovegetarian,,protein,vitamin D,egg
+Ingredient,noodles,,vegetarian,grain,carbohydrates,,noodles
+Ingredient,eggplant,aubergine,vegetarian,fruit,carbohydrates,,eggplant
+Ingredient,Fenugreek leaves,,,,,,Fenugreek leaves
+Ingredient,feta cheese,,vegetarian,dairy,protein,,feta cheese
+Ingredient,garlic paste,lasson,,,,,garlic paste
+Ingredient,ginger paste,adrak,,,,,ginger paste
+Ingredient,parmesan cheese,,vegetarian,dairy,protein,,parmesan cheese
+Ingredient,green chilly,,vegetarian,vegetable,,capsaicin,green chilly
+Ingredient,green onion,scallion,vegetarian,vegetable,,vitamin k,green onion
+Ingredient,white bean,,vegetarian,legume,protein,,white bean
+Ingredient,milk,,vegetarian,dairy,protein,,milk
+Ingredient,olive oil ,,vegetarian,,fat,,olive oil 
+Ingredient,tomato,,vegetarian,fruit,carbohydrates,,tomato
+Ingredient,pork belly,,,,,,pork belly
+Ingredient,quinoa,,vegetarian,grain,carbohydrates,,quinoa
+Ingredient,red kidney beans,rajma,vegetarian,legume,protein,,red kidney beans
+Ingredient,rice,chawal,vegetarian,grain,carbohydrates,,rice
+Ingredient,sugar,cheeni,vegetarian,,carbohydrates,,sugar
+Ingredient,potato,,vegetarian,root vegetable,carbohydrates,,potato
+Ingredient,duck,,nonvegetarian,poultry,protein,,duck
+Ingredient,brown sugar,,vegetarian,,carbohydrates,,brown sugar
+Ingredient,offal,,nonvegetarian,meat,protein,,offal
+Ingredient,moong daal,,vegetarian,legume,protein,,moong daal
+Ingredient,cream,,vegetarian,dairy,fat,omega-3,cream
+Ingredient,granola,,vegetarian,grain,carbohydrates,,granola
+Ingredient,banana chips,,vegetarian,fruit,carbohydrates,,banana chips
+Ingredient,pumpkin seeds,,vegetarian,seed,protein,antioxidants,pumpkin seeds
+Ingredient,beef,,nonvegetarian,meat,protein,,beef
+Ingredient,wheat,,vegetarian,grain,protein,,wheat
+Ingredient,lamb,,nonvegetarian,meat,protein,,lamb
+Ingredient,bean sprouts,,vegetarian,vegetables,carbohydrates,,bean sprouts
+Ingredient,pork,,nonvegetarian,meat,protein,,pork
+Ingredient,salmon,,pescatarian,fish,protein,,salmon
+Ingredient,lobster,,pescatarian,seafood,protein,,lobster
+Ingredient,tuna,,pescatarian,fish,protein,,tuna
+Ingredient,seaweed,,vegetarian,vegetables,,omega-3,seaweed
+Ingredient,lettuce,,vegetarian,vegetables,,vitamin a,lettuce
+Ingredient,cocoa,,vegetarian,,,magnesium,cocoa
+Ingredient,vodka,,alcohol,,,,vodka
+Ingredient,tequila,,alcohol,,,,tequila
+Ingredient,triple sec,,alcohol,,,,triple sec
+Ingredient,chocolate,,vegetarian,,,magnesium,chocolate
+Ingredient,squid,,pescatarian,seafood,protein,,squid
+Ingredient,pasta,,vegetarian,,carbohydrates,,pasta
+Ingredient,tortilla,,vegetarian,,carbohydrates,,tortilla
